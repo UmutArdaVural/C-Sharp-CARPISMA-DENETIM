@@ -1,0 +1,53 @@
+C:\Users\umuta\source\repos\Çarpışma denetimi başlangıç\bin\Debug\net8.0-windows\Çarpışma denetimi başlangıç.exe
+C:\Users\umuta\source\repos\Çarpışma denetimi başlangıç\bin\Debug\net8.0-windows\Çarpışma denetimi başlangıç.deps.json
+C:\Users\umuta\source\repos\Çarpışma denetimi başlangıç\bin\Debug\net8.0-windows\Çarpışma denetimi başlangıç.runtimeconfig.json
+C:\Users\umuta\source\repos\Çarpışma denetimi başlangıç\bin\Debug\net8.0-windows\Çarpışma denetimi başlangıç.dll
+C:\Users\umuta\source\repos\Çarpışma denetimi başlangıç\bin\Debug\net8.0-windows\Çarpışma denetimi başlangıç.pdb
+C:\Users\umuta\source\repos\Çarpışma denetimi başlangıç\obj\Debug\net8.0-windows\Çarpışma_denetimi_başlangıç.Form1.resources
+C:\Users\umuta\source\repos\Çarpışma denetimi başlangıç\obj\Debug\net8.0-windows\Çarpışma_denetimi_başlangıç.Form2.resources
+C:\Users\umuta\source\repos\Çarpışma denetimi başlangıç\obj\Debug\net8.0-windows\Çarpışma denetimi başlangıç.csproj.GenerateResource.cache
+C:\Users\umuta\source\repos\Çarpışma denetimi başlangıç\obj\Debug\net8.0-windows\Çarpışma denetimi başlangıç.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umuta\source\repos\Çarpışma denetimi başlangıç\obj\Debug\net8.0-windows\Çarpışma denetimi başlangıç.AssemblyInfoInputs.cache
+C:\Users\umuta\source\repos\Çarpışma denetimi başlangıç\obj\Debug\net8.0-windows\Çarpışma denetimi başlangıç.AssemblyInfo.cs
+C:\Users\umuta\source\repos\Çarpışma denetimi başlangıç\obj\Debug\net8.0-windows\Çarpışma denetimi başlangıç.csproj.CoreCompileInputs.cache
+C:\Users\umuta\source\repos\Çarpışma denetimi başlangıç\obj\Debug\net8.0-windows\Çarpışma denetimi başlangıç.dll
+C:\Users\umuta\source\repos\Çarpışma denetimi başlangıç\obj\Debug\net8.0-windows\refint\Çarpışma denetimi başlangıç.dll
+C:\Users\umuta\source\repos\Çarpışma denetimi başlangıç\obj\Debug\net8.0-windows\Çarpışma denetimi başlangıç.pdb
+C:\Users\umuta\source\repos\Çarpışma denetimi başlangıç\obj\Debug\net8.0-windows\Çarpışma denetimi başlangıç.genruntimeconfig.cache
+C:\Users\umuta\source\repos\Çarpışma denetimi başlangıç\obj\Debug\net8.0-windows\ref\Çarpışma denetimi başlangıç.dll
+C:\Users\umuta\source\repos\Çarpışma denetimi YENİ FORMAT\bin\Debug\net8.0-windows\Çarpışma denetimi başlangıç.exe
+C:\Users\umuta\source\repos\Çarpışma denetimi YENİ FORMAT\bin\Debug\net8.0-windows\Çarpışma denetimi başlangıç.deps.json
+C:\Users\umuta\source\repos\Çarpışma denetimi YENİ FORMAT\bin\Debug\net8.0-windows\Çarpışma denetimi başlangıç.runtimeconfig.json
+C:\Users\umuta\source\repos\Çarpışma denetimi YENİ FORMAT\bin\Debug\net8.0-windows\Çarpışma denetimi başlangıç.dll
+C:\Users\umuta\source\repos\Çarpışma denetimi YENİ FORMAT\bin\Debug\net8.0-windows\Çarpışma denetimi başlangıç.pdb
+C:\Users\umuta\source\repos\Çarpışma denetimi YENİ FORMAT\obj\Debug\net8.0-windows\Çarpışma_denetimi_başlangıç.Form1.resources
+C:\Users\umuta\source\repos\Çarpışma denetimi YENİ FORMAT\obj\Debug\net8.0-windows\Çarpışma_denetimi_başlangıç.Form2.resources
+C:\Users\umuta\source\repos\Çarpışma denetimi YENİ FORMAT\obj\Debug\net8.0-windows\Çarpışma denetimi başlangıç.csproj.GenerateResource.cache
+C:\Users\umuta\source\repos\Çarpışma denetimi YENİ FORMAT\obj\Debug\net8.0-windows\Çarpışma denetimi başlangıç.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umuta\source\repos\Çarpışma denetimi YENİ FORMAT\obj\Debug\net8.0-windows\Çarpışma denetimi başlangıç.AssemblyInfoInputs.cache
+C:\Users\umuta\source\repos\Çarpışma denetimi YENİ FORMAT\obj\Debug\net8.0-windows\Çarpışma denetimi başlangıç.AssemblyInfo.cs
+C:\Users\umuta\source\repos\Çarpışma denetimi YENİ FORMAT\obj\Debug\net8.0-windows\Çarpışma denetimi başlangıç.csproj.CoreCompileInputs.cache
+C:\Users\umuta\source\repos\Çarpışma denetimi YENİ FORMAT\obj\Debug\net8.0-windows\Çarpışma denetimi başlangıç.dll
+C:\Users\umuta\source\repos\Çarpışma denetimi YENİ FORMAT\obj\Debug\net8.0-windows\refint\Çarpışma denetimi başlangıç.dll
+C:\Users\umuta\source\repos\Çarpışma denetimi YENİ FORMAT\obj\Debug\net8.0-windows\Çarpışma denetimi başlangıç.pdb
+C:\Users\umuta\source\repos\Çarpışma denetimi YENİ FORMAT\obj\Debug\net8.0-windows\Çarpışma denetimi başlangıç.genruntimeconfig.cache
+C:\Users\umuta\source\repos\Çarpışma denetimi YENİ FORMAT\obj\Debug\net8.0-windows\ref\Çarpışma denetimi başlangıç.dll
+C:\Users\umuta\source\repos\Çarpışma denetimi YENİ FORMAT\obj\Debug\net8.0-windows\Çarpışma_denetimi_başlangıç.Properties.Resources.resources
+C:\Users\umuta\OneDrive\Masaüstü\B231210081 UMUT ARDA VURAL 2.ÖDEV\UMUT ARDA VURAL 2. ÖDEV B231210081\bin\Debug\net8.0-windows\Çarpışma denetimi başlangıç.exe
+C:\Users\umuta\OneDrive\Masaüstü\B231210081 UMUT ARDA VURAL 2.ÖDEV\UMUT ARDA VURAL 2. ÖDEV B231210081\bin\Debug\net8.0-windows\Çarpışma denetimi başlangıç.deps.json
+C:\Users\umuta\OneDrive\Masaüstü\B231210081 UMUT ARDA VURAL 2.ÖDEV\UMUT ARDA VURAL 2. ÖDEV B231210081\bin\Debug\net8.0-windows\Çarpışma denetimi başlangıç.runtimeconfig.json
+C:\Users\umuta\OneDrive\Masaüstü\B231210081 UMUT ARDA VURAL 2.ÖDEV\UMUT ARDA VURAL 2. ÖDEV B231210081\bin\Debug\net8.0-windows\Çarpışma denetimi başlangıç.dll
+C:\Users\umuta\OneDrive\Masaüstü\B231210081 UMUT ARDA VURAL 2.ÖDEV\UMUT ARDA VURAL 2. ÖDEV B231210081\bin\Debug\net8.0-windows\Çarpışma denetimi başlangıç.pdb
+C:\Users\umuta\OneDrive\Masaüstü\B231210081 UMUT ARDA VURAL 2.ÖDEV\UMUT ARDA VURAL 2. ÖDEV B231210081\obj\Debug\net8.0-windows\Çarpışma_denetimi_başlangıç.Form1.resources
+C:\Users\umuta\OneDrive\Masaüstü\B231210081 UMUT ARDA VURAL 2.ÖDEV\UMUT ARDA VURAL 2. ÖDEV B231210081\obj\Debug\net8.0-windows\Çarpışma_denetimi_başlangıç.Form2.resources
+C:\Users\umuta\OneDrive\Masaüstü\B231210081 UMUT ARDA VURAL 2.ÖDEV\UMUT ARDA VURAL 2. ÖDEV B231210081\obj\Debug\net8.0-windows\Çarpışma_denetimi_başlangıç.Properties.Resources.resources
+C:\Users\umuta\OneDrive\Masaüstü\B231210081 UMUT ARDA VURAL 2.ÖDEV\UMUT ARDA VURAL 2. ÖDEV B231210081\obj\Debug\net8.0-windows\Çarpışma denetimi başlangıç.csproj.GenerateResource.cache
+C:\Users\umuta\OneDrive\Masaüstü\B231210081 UMUT ARDA VURAL 2.ÖDEV\UMUT ARDA VURAL 2. ÖDEV B231210081\obj\Debug\net8.0-windows\Çarpışma denetimi başlangıç.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umuta\OneDrive\Masaüstü\B231210081 UMUT ARDA VURAL 2.ÖDEV\UMUT ARDA VURAL 2. ÖDEV B231210081\obj\Debug\net8.0-windows\Çarpışma denetimi başlangıç.AssemblyInfoInputs.cache
+C:\Users\umuta\OneDrive\Masaüstü\B231210081 UMUT ARDA VURAL 2.ÖDEV\UMUT ARDA VURAL 2. ÖDEV B231210081\obj\Debug\net8.0-windows\Çarpışma denetimi başlangıç.AssemblyInfo.cs
+C:\Users\umuta\OneDrive\Masaüstü\B231210081 UMUT ARDA VURAL 2.ÖDEV\UMUT ARDA VURAL 2. ÖDEV B231210081\obj\Debug\net8.0-windows\Çarpışma denetimi başlangıç.csproj.CoreCompileInputs.cache
+C:\Users\umuta\OneDrive\Masaüstü\B231210081 UMUT ARDA VURAL 2.ÖDEV\UMUT ARDA VURAL 2. ÖDEV B231210081\obj\Debug\net8.0-windows\Çarpışma denetimi başlangıç.dll
+C:\Users\umuta\OneDrive\Masaüstü\B231210081 UMUT ARDA VURAL 2.ÖDEV\UMUT ARDA VURAL 2. ÖDEV B231210081\obj\Debug\net8.0-windows\refint\Çarpışma denetimi başlangıç.dll
+C:\Users\umuta\OneDrive\Masaüstü\B231210081 UMUT ARDA VURAL 2.ÖDEV\UMUT ARDA VURAL 2. ÖDEV B231210081\obj\Debug\net8.0-windows\Çarpışma denetimi başlangıç.pdb
+C:\Users\umuta\OneDrive\Masaüstü\B231210081 UMUT ARDA VURAL 2.ÖDEV\UMUT ARDA VURAL 2. ÖDEV B231210081\obj\Debug\net8.0-windows\Çarpışma denetimi başlangıç.genruntimeconfig.cache
+C:\Users\umuta\OneDrive\Masaüstü\B231210081 UMUT ARDA VURAL 2.ÖDEV\UMUT ARDA VURAL 2. ÖDEV B231210081\obj\Debug\net8.0-windows\ref\Çarpışma denetimi başlangıç.dll

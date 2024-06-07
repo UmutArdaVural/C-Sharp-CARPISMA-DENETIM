@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Çarpışma denetimi başlangıç/1.0.0": {
+        "runtime": {
+          "Çarpışma denetimi başlangıç.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Çarpışma denetimi başlangıç/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
